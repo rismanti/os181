@@ -1,2 +1,2 @@
-ZCZC Week00 </br>
-ZCZC Week01
+ZCZC W00 </br>
+ZCZC W01 Lab Pertama
